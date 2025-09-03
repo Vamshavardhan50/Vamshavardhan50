@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Chintha vamsha vardhan</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Chintha Vamsha vardhan</h1>
+<h3 align="center">A passionate Web developer And Data Science from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshavardhan50&label=Profile%20views&color=0e75b6&style=flat" alt="vamshavardhan50" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamshavardhan50" alt="vamshavardhan50" /></a> </p>
 
-- 🔭 I’m currently working on web development **Saas website builder**
+- 🔭 I’m currently working on web development **Saas website builder** and **Data Science Projects**
 
 - 👯 I’m looking to collaborate on GOSC **Flow scrape**
 
