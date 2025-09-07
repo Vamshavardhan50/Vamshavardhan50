@@ -6,7 +6,7 @@
   <a href="https://github.com/Vamshavardhan50">
     <img src="https://komarev.com/ghpvc/?username=Vamshavardhan50&label=Profile%20Views&color=blue&style=flat" alt="GitHub Profile Views"/>
   </a>
-  <a href="https://www.linkedin.com/in/vamshavardhan/">
+  <a href="https://www.linkedin.com/in/vamshavardhan50/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile%20Views-blue?style=flat" alt="LinkedIn Profile Views"/>
   </a>
   <a href="https://www.instagram.com/vardhan_vamsha/">
