@@ -4,10 +4,13 @@
 
 <p align="center">
   <a href="https://github.com/Vamshavardhan50">
-    <img src="https://komarev.com/ghpvc/?username=Vamshavardhan50&label=Profile%20Views&color=blue&style=flat" alt="views"/>
+    <img src="https://komarev.com/ghpvc/?username=Vamshavardhan50&label=Profile%20Views&color=blue&style=flat" alt="GitHub Profile Views"/>
   </a>
-  <a href="https://github.com/Vamshavardhan50?tab=followers">
-    <img src="https://img.shields.io/github/followers/Vamshavardhan50?label=Followers&style=social" alt="followers"/>
+  <a href="https://www.linkedin.com/in/vamshavardhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile%20Views-blue?style=flat" alt="LinkedIn Profile Views"/>
+  </a>
+  <a href="https://www.instagram.com/vardhan_vamsha/">
+    <img src="https://img.shields.io/badge/Instagram-vardhan_vamsha-blue?style=flat" alt="Instagram"/>
   </a>
 </p>
 
@@ -78,8 +81,9 @@
 
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vamshavardhan50)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vamshavardhan50)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chintha.vamshavardhan50@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshavardhan/)  
+[![Instagram](https://img.shields.io/badge/Instagram-vardhan_vamsha-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vardhan_vamsha/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---
 
