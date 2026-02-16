@@ -1,90 +1,154 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Vamsha Vardhan</h1>
-<h3 align="center">🚀 Aspiring Software Developer | Data Analyst | ML Enthusiast</h3>
+<!-- ================================================= -->
+<!--                🔥 HEADER SECTION 🔥               -->
+<!-- ================================================= -->
 
 <p align="center">
-  <a href="https://github.com/Vamshavardhan50">
-    <img src="https://komarev.com/ghpvc/?username=Vamshavardhan50&label=Profile%20Views&color=blue&style=flat" alt="GitHub Profile Views"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vamshavardhan50/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile%20Views-blue?style=flat" alt="LinkedIn Profile Views"/>
-  </a>
-  <a href="https://www.instagram.com/vardhan_vamsha/">
-    <img src="https://img.shields.io/badge/Instagram-vardhan_vamsha-blue?style=flat" alt="Instagram"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=VAMSHA%20VARDHAN&fontSize=80&fontColor=00FFFF&animation=fadeIn&desc=Developer%20|%20AI%20Explorer%20|%20Cloud%20Architect&descAlignY=65&descSize=22"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=>+Welcome+to+my+digital+universe;%3E+I+build+scalable+systems;%3E+Turning+coffee+into+code+since+2023;%3E+Future+AI+Engineer+%F0%9F%A4%96"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vamshavardhan50&label=VISITORS&color=00ff41&style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/github/followers/Vamshavardhan50?label=FOLLOWERS&style=for-the-badge&color=00FFFF&labelColor=000000"/>
+  <img src="https://img.shields.io/github/stars/Vamshavardhan50?label=TOTAL%20STARS&style=for-the-badge&color=FFD700&labelColor=000000"/>
 </p>
 
 ---
 
-## 🌟 About Me
-- 🎓 Computer Science student passionate about **Web Development, Data Analytics & AI**  
-- 🛠 Building **Flow Scrape** → AI-powered no-code scalable web scraper  
-- 📚 Created **Online Book Store** → Static site with login, register, validation features  
-- ☁️ Experimenting with **Cloud (AWS)** + **Databases (MongoDB, PostgreSQL)**  
-- 🤖 Exploring **Machine Learning**: Linear Regression, Decision Trees, Data Visualization  
-- 💡 Interested in **Scalable Apps, Automation, and AI-driven tools**  
-- ⚡ Fun fact: I love breaking down complex problems into simple, logical workflows  
+# 🧠 WHO AM I?
+
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 Computer Science Student  
+🚀 Building **Flow Scrape** (AI Web Scraper)  
+☁️ Learning AWS + Cloud Architecture  
+🤖 Exploring Machine Learning & Deep Learning  
+🔧 Backend-focused Developer  
+📈 Passionate about scalable systems  
+🎯 2025 Goal: Open Source Contributor
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 TECH STACK
 
-### 🚀 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### ⚡ Languages
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### 🌐 Frontend
 
-### ⚙️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+### ⚙ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### 🗄 Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+
+### ☁ DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
-## 📌 Featured Projects
-- 🚀 **Flow Scrape** – AI-powered no-code scalable web scraper (Next.js, Puppeteer, React Flow, PostgreSQL)  
-- 📚 **Online Book Store** – Static site with login, register, and validation features (HTML, CSS, JS, Bootstrap)  
-- ☁️ **Google Drive Clone** – File & folder upload system with AWS backend  
-- 📊 **EDA Analyzer** – Exploratory Data Analysis and visualization project in Python  
+# 🚀 FEATURED PROJECTS
+
+## 🚀 Flow Scrape
+
+AI-powered scalable scraping platform  
+Next.js • Puppeteer • PostgreSQL • Cloud Deployment
+
+[![View Project](https://img.shields.io/badge/View_Project-00FF41?style=for-the-badge)](https://github.com/Vamshavardhan50)
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📚 Online Book Store
+
+Full authentication & validation system
+
+[![View Project](https://img.shields.io/badge/View_Project-00FFFF?style=for-the-badge)](https://github.com/Vamshavardhan50)
+
+---
+
+## ☁ Cloud Storage Platform
+
+Secure file upload system with AWS backend
+
+[![View Project](https://img.shields.io/badge/View_Project-FF6090?style=for-the-badge)](https://github.com/Vamshavardhan50)
+
+---
+
+# 📊 GITHUB ANALYTICS
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vamshavardhan50&show_icons=true&theme=tokyonight" alt="stats" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshavardhan50&theme=tokyonight" alt="streak" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vamshavardhan50&theme=chartreuse-dark&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vamshavardhan50&layout=compact&theme=tokyonight" alt="langs" height="165px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamshavardhan50&bg_color=000000&color=00FF41&line=00FFFF&point=FF6090&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Current Goals
-- 🧑‍💻 Contribute to **Open Source Projects**  
-- 📈 Strengthen **Backend & Cloud Skills (Node.js, AWS, Databases)**  
-- 🤖 Deepen knowledge in **Machine Learning & AI**  
-- 🌐 Build more **scalable full-stack applications**  
+# 🎯 2025 ROADMAP
+
+```mermaid
+mindmap
+  root((2025 Goals))
+    Open Source
+      First PR
+      5+ Contributions
+    Backend Mastery
+      Node Patterns
+      Microservices
+    Cloud
+      AWS Certified
+      Deploy SaaS
+    AI
+      3 ML Projects
+      Deep Learning
+```
 
 ---
 
-## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vamshavardhan50)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshavardhan/)  
-[![Instagram](https://img.shields.io/badge/Instagram-vardhan_vamsha-blue?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vardhan_vamsha/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+# 🏆 ACHIEVEMENTS
+
+![Projects](https://img.shields.io/badge/Projects_Built-10+-FFD700?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repositories-20+-00FF41?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-500+-FF8C00?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Coffee_Consumed-∞-8B4513?style=for-the-badge)
 
 ---
 
-⭐️ From [Vamshavardhan50](https://github.com/Vamshavardhan50)
+# 📫 CONNECT WITH ME
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Vamshavardhan50)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamshavardhan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/vardhan_vamsha/)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer&animation=twinkling"/>
+</p>
+
+<p align="center">
+  MADE WITH ❤️ BY VAMSHA VARDHAN
+</p>
