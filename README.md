@@ -1,9 +1,9 @@
-<!-- ================================================= -->
+q<!-- ================================================= -->
 <!--                🔥 HEADER SECTION 🔥               -->
 <!-- ================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=VAMSHA%20VARDHAN&fontSize=80&fontColor=00FFFF&animation=fadeIn&desc=Developer%20|%20AI%20Explorer%20|%20Cloud%20Architect&descAlignY=65&descSize=22"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=VAMSHA%20VARDHAN&fontSize=80&fontColor=FFFF00&animation=fadeIn&desc=Developer%20|%20AI%20Explorer%20|%20Cloud%20Architect&descAlignY=65&descSize=22"/>
 </p>
 
 <p align="center">
