@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="500" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+  <title id="title">Vamsha Vardhan — developer and open-source builder</title>
+  <desc id="desc">An illustrated dark blue builder's dossier with a glowing data pipeline, project notes, and a terminal window.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080b16"/>
+      <stop offset="0.55" stop-color="#111a2d"/>
+      <stop offset="1" stop-color="#101024"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6ee7f9"/>
+      <stop offset="0.48" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17243a"/>
+      <stop offset="1" stop-color="#0c1220"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.43" r="0.65">
+      <stop offset="0" stop-color="#4f46e5" stop-opacity="0.30"/>
+      <stop offset="0.58" stop-color="#312e81" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#080b16" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#a5b4fc" stroke-opacity="0.075" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1.25" fill="#a5b4fc" fill-opacity="0.22"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .hero-title { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 83px; font-weight: 700; letter-spacing: -6px; }
+      .project-panel { fill: url(#panel); stroke: #a5b4fc; stroke-opacity: .25; }
+      .trace-line { stroke-linecap: round; stroke-linejoin: round; }
+    </style>
+  </defs>
+
+  <rect width="1440" height="500" rx="26" fill="url(#background)"/>
+  <rect width="1440" height="500" rx="26" fill="url(#glow)"/>
+  <rect width="1440" height="500" rx="26" fill="url(#grid)"/>
+  <path d="M0 414C250 350 420 523 690 424S1114 302 1440 410V500H0Z" fill="#0b1020" fill-opacity="0.50"/>
+  <path d="M0 418C250 354 420 527 690 428S1114 306 1440 414" fill="none" stroke="url(#accent)" stroke-opacity="0.24" stroke-width="2"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="76" y="76" fill="#8ea1c4" font-size="14" letter-spacing="3">FIELD NOTES / SOFTWARE / INDIA</text>
+    <path d="M76 100H578" stroke="#93a4c7" stroke-opacity="0.28"/>
+    <text class="hero-title" x="70" y="204" fill="#f4f7ff" font-size="83" font-weight="700" letter-spacing="-6">VAMSHA</text>
+    <text class="hero-title" x="70" y="292" fill="#f4f7ff" font-size="83" font-weight="700" letter-spacing="-6">VARDHAN</text>
+    <text x="78" y="340" fill="#abb9d3" font-size="17" letter-spacing="1.1">I BUILD TOOLS FOR THE HARD PARTS.</text>
+    <rect x="78" y="378" width="178" height="34" rx="17" fill="#6ee7f9" fill-opacity="0.09" stroke="#6ee7f9" stroke-opacity="0.38"/>
+    <circle cx="96" cy="395" r="4" fill="#6ee7f9" filter="url(#softGlow)"/>
+    <text x="110" y="400" fill="#c4f1fb" font-size="12" letter-spacing="1.4">OPEN-SOURCE BUILDER</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path class="trace-line" d="M608 253C690 253 692 158 772 158H848" stroke="#6ee7f9" stroke-opacity="0.76" stroke-width="2"/>
+    <path class="trace-line" d="M608 253H848" stroke="#818cf8" stroke-opacity="0.68" stroke-width="2" stroke-dasharray="5 8"/>
+    <path class="trace-line" d="M608 253C690 253 692 352 772 352H848" stroke="#c084fc" stroke-opacity="0.76" stroke-width="2"/>
+  </g>
+  <g>
+    <circle cx="608" cy="253" r="9" fill="#111827" stroke="#dbeafe" stroke-opacity="0.85" stroke-width="2"/>
+    <circle cx="608" cy="253" r="3" fill="#fff"/>
+    <circle cx="848" cy="158" r="7" fill="#0f172a" stroke="#6ee7f9" stroke-width="2"/>
+    <circle cx="848" cy="253" r="7" fill="#0f172a" stroke="#818cf8" stroke-width="2"/>
+    <circle cx="848" cy="352" r="7" fill="#0f172a" stroke="#c084fc" stroke-width="2"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="624" y="232" fill="#a7b6d1" font-size="11" letter-spacing="1.5">FRICTION</text>
+    <text x="871" y="162" fill="#baf5ff" font-size="13" letter-spacing="1.2">CRAWL</text>
+    <text x="871" y="258" fill="#c9ccff" font-size="13" letter-spacing="1.2">CHECK</text>
+    <text x="871" y="357" fill="#e8c9ff" font-size="13" letter-spacing="1.2">SHIP</text>
+  </g>
+
+  <g>
+    <rect class="project-panel" x="1012" y="88" width="354" height="324" rx="17" fill="url(#panel)" stroke="#a5b4fc" stroke-opacity="0.25"/>
+    <path d="M1012 132H1366" stroke="#a5b4fc" stroke-opacity="0.18"/>
+    <circle cx="1040" cy="110" r="4" fill="#fb7185"/>
+    <circle cx="1057" cy="110" r="4" fill="#fbbf24"/>
+    <circle cx="1074" cy="110" r="4" fill="#6ee7b7"/>
+    <text x="1102" y="114" fill="#8292af" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5">BUILD LOG / 001</text>
+    <text x="1042" y="171" fill="#70819e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">const</text>
+    <text x="1090" y="171" fill="#c4b5fd" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">work</text>
+    <text x="1127" y="171" fill="#70819e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">= {</text>
+    <text x="1063" y="201" fill="#6ee7f9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">curiosity</text>
+    <text x="1142" y="201" fill="#8292af" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">:</text>
+    <text x="1156" y="201" fill="#f9a8d4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">"always on"</text>
+    <text x="1063" y="231" fill="#6ee7f9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">default</text>
+    <text x="1124" y="231" fill="#8292af" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">:</text>
+    <text x="1138" y="231" fill="#f9a8d4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">"useful"</text>
+    <text x="1063" y="261" fill="#6ee7f9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">ship_it</text>
+    <text x="1124" y="261" fill="#8292af" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">:</text>
+    <text x="1138" y="261" fill="#86efac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">true</text>
+    <text x="1042" y="291" fill="#8292af" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">};</text>
+    <path d="M1042 315H1334" stroke="#a5b4fc" stroke-opacity="0.16"/>
+    <text x="1042" y="345" fill="#8799b7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">NOW BUILDING</text>
+    <text x="1042" y="375" fill="#f4f7ff" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="19" font-weight="700">Crawlingo</text>
+    <circle cx="1328" cy="369" r="4" fill="#6ee7f9" filter="url(#softGlow)"/>
+  </g>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="1.4" fill="#788aa8">
+    <text x="76" y="465">USEFUL BY DESIGN</text>
+    <text x="1270" y="465">V.V / 2026</text>
+  </g>
+</svg>
