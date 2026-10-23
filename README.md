@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Custom illustrated builder's dossier for Vamsha Vardhan" width="100%" />
+<img src="./hero.svg" alt="Custom illustrated builder's dossier for Vamsha Vardhan" width="100%" />
 
 <br />
 
